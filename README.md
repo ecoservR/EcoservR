@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/ecoservR/nat-cap-mapping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+EcoservR is a tool for mapping natural capital assets and ecosystem services. It is a re-write of [Ecoserv-GIS](https://www.nature.scot/snh-research-report-954-ecoserv-gis-v33-toolkit-mapping-ecosystem-services-gb-scale) and is currently being developed and tested at Liverpool John Moores University in collaboration with [Natural Capital Solutions](http://www.naturalcapitalsolutions.co.uk/), [Forest Research](forestresearch.gov.uk/), and the [Cheshire Wildlife Trust](https://www.cheshirewildlifetrust.org.uk/) as part of a [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) test and trial for the new Environmental Land Management System (ELMS).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contents
 
-### Markdown
+internal links to sections on the page
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# The Ecoserv approach
 
-# Header 1
-## Header 2
-### Header 3
+EcoservR, and Ecoserv-GIS before it, is a toolkit that ...................
 
-- Bulleted
-- List
+Motivation for re-writing in R
 
-1. Numbered
-2. List
+For use in England, eventually Great Britain
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Environmental baseline
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Description and image
 
-### Jekyll Themes
+### Datasets
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ecoservR/nat-cap-mapping/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+list of datasets used in baseline
 
-### Support or Contact
+### Process 
+brief description of processing steps
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Habitat classification
+
+When all the desired datasets have been added to the basemap, a rule-based classification step assigns a habitat code to each polygons. Currently, the datasets with the ability to inform this classification are OS MasterMap, OS (Open) Greenspace, Priority Habitat Inventory, CROME, and CORINE. Other rules based on polygon size also inform the classification.
+
+.... Phase 1 code... future compatibility with UK HAB
+
+
+
+## Ecosystem services
+
+Description and list of the services we cover 
+
+### Capacity
+
+principles behind capacity
+
+### Demand 
+
+principles behind demand
+
+
+
+# Applications
+
+## ELMS Test and Trial
+some text here
+
+## Liverpool City Region
+some text here
+
+## Cheshire work
+some text here
+
+
+# EcoservR release
+
+We are working towards a beta-release of the toolkit as a series of R scripts in late August 2020. 
+
+# Contact
+
+Questions or feedback? Please get in touch with us at ecoservR *at* gmail.com
