@@ -5,6 +5,12 @@ EcoservR is a tool for mapping natural capital assets and ecosystem services. It
 ### Jump to...
 
 internal links to sections on the page
++ [The Ecoserv approach](#the-ecoserv-approach)
++ [Environmental baseline](#environmental-baseline)
++ [Ecosystem services](#ecosystem-services)
++ [Applications](#applications)
++ [EcoservR release](#ecoservr-release)
++ [Get in touch](#contact)
 
 
 # The Ecoserv approach
@@ -16,18 +22,18 @@ Motivation for re-writing in R
 For use in England, eventually Great Britain
 
 
-## Environmental baseline
+# Environmental baseline
 
 Description and image
 
-### Datasets
+## Datasets
 
 list of datasets used in baseline
 
-### Process 
+## Generating a baseline 
 brief description of processing steps
 
-### Habitat classification
+## Habitat classification
 
 When all the desired datasets have been added to the basemap, a rule-based classification step assigns a habitat code to each polygons. Currently, the datasets with the ability to inform this classification are OS MasterMap, OS (Open) Greenspace, Priority Habitat Inventory, CROME, and CORINE. Other rules based on polygon size also inform the classification.
 
@@ -35,15 +41,15 @@ When all the desired datasets have been added to the basemap, a rule-based class
 
 
 
-## Ecosystem services
+# Ecosystem services
 
 Description and list of the services we cover 
 
-### Capacity
+## Capacity
 
 principles behind capacity
 
-### Demand 
+## Demand 
 
 principles behind demand
 
