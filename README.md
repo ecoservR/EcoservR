@@ -12,6 +12,7 @@ internal links to sections on the page
 + [EcoservR release](#ecoservr-release)
 + [Get in touch](#contact)
 
+<div id = "about">
 
 # The Ecoserv approach
 
@@ -20,7 +21,7 @@ EcoservR, and Ecoserv-GIS before it, is a toolkit that ...................
 Motivation for re-writing in R
 
 For use in England, eventually Great Britain
-
+</div>
 
 # Environmental baseline
 
