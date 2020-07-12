@@ -397,10 +397,10 @@ a {
  background-color: #dad4df;
  padding-left: 25%;
    
- //    @include large {
- //   padding: 2rem calc(20% + 6rem);
- //   font-size: 1.1rem;
- // }
+  @include large {
+    padding: 2rem auto;
+    font-size: 1.1rem;
+  }
 
   @include medium {
     padding: 2rem 4rem;
