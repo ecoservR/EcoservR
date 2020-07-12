@@ -10,7 +10,7 @@ internal links to sections on the page
 + [Ecosystem services](#ecosystem-services)
 + [Applications](#applications)
 + [EcoservR release](#ecoservr-release)
-+ [Get in touch](#contact)
++ [Get in touch](#get-in-touch)
 
 <div display="block" class="row-full" markdown="1">
   <div class="main-content" markdown="1">
@@ -84,7 +84,7 @@ We are working towards a beta-release of the toolkit as a series of R scripts in
 
 <div display="block" class="row-full" id="contact" markdown="1">
   <div class="main-content" markdown="1">
-# Contact
+# Get in touch
 
 Questions or feedback? Please get in touch with us at ecoservR *at* gmail.com
 
