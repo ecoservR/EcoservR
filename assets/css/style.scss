@@ -397,7 +397,7 @@ a {
  background-color: #dad4df;
    
      @include large {
-    padding: 2rem calc(50vw + 6rem);
+    padding: 2rem calc(50% + 6rem);
     font-size: 1.1rem;
   }
 
