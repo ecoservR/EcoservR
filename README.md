@@ -86,7 +86,7 @@ We are working towards a beta-release of the toolkit as a series of R scripts in
   <div class="main-content" markdown="1">
 # Contact
 
-Questions or feedback? Please get in touch with us at <style = "color:#aff479"> ecoservR *at* gmail.com </style>
+Questions or feedback? Please get in touch with us at ecoservR *at* gmail.com
 
 </div>
 </div>
