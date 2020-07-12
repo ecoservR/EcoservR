@@ -12,7 +12,7 @@ internal links to sections on the page
 + [EcoservR release](#ecoservr-release)
 + [Get in touch](#contact)
 
-<div class="row-full" display="block" markdown="1">
+<div display="block" style="background-color: #e9e6ec;" markdown="1">
 
 # The Ecoserv approach
 
