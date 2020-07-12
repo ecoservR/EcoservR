@@ -72,7 +72,7 @@ some text here
 ## Cheshire work
 some text here
 
-<div display="block" class="release" markdown="1">
+<div display="block" class="row-full" id="release" markdown="1">
   <div class="main-content" markdown="1">
 # EcoservR release
 
