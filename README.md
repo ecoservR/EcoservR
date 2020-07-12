@@ -13,7 +13,7 @@ internal links to sections on the page
 + [Get in touch](#contact)
 
 <div display="block" class="row-full" markdown="1">
-  <div class="main-content">
+  <div class="main-content" markdown="1">
 
 # The Ecoserv approach
 
