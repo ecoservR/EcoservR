@@ -388,7 +388,34 @@ a {
   color: $blockquote-text-color;
 }
 
+
  .row-full{
+ width: 100vw;
+ position: relative;
+ margin-left: -50vw;
+ margin-top: 100px;
+ left: 50%;
+ background-color: #dad4df;
+   
+  @include large {
+    max-width: 100%;
+    padding: 2rem auto;
+    font-size: 1.1rem;
+  }
+
+  @include medium {
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
+}
+
+
+ .row-fullbackup{
  width: 100vw;
  position: relative;
  margin-left: -50vw;
@@ -398,7 +425,7 @@ a {
  padding-left: 25%;
    
   @include large {
-    padding: 2rem auto;
+    padding: 2rem calc(50% - 50vw);
     font-size: 1.1rem;
   }
 
