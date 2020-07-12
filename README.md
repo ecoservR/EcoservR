@@ -12,7 +12,7 @@ internal links to sections on the page
 + [EcoservR release](#ecoservr-release)
 + [Get in touch](#contact)
 
-<div class="about" markdown="1">
+<div class="row-full" markdown="1">
 
 # The Ecoserv approach
 
