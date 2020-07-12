@@ -397,7 +397,6 @@ a {
  background-color: #dad4df;
    
      @include large {
-    max-width: 64rem;
     padding: 2rem 6rem;
     font-size: 1.1rem;
   }
