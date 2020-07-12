@@ -189,14 +189,7 @@ a {
     padding: 2rem 1rem;
     font-size: 1rem;
   }
-  
-  about {
-  background-color: #a2cec4;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-}
-
-  
+    
   kbd {
     background-color: #fafbfc;
     border: 1px solid #c6cbd1;
@@ -395,4 +388,12 @@ a {
   color: $blockquote-text-color;
 }
 
+ .row-full{
+ width: 100vw;
+ position: relative;
+ margin-left: -50vw;
+ margin-top: 100px;
+ left: 50%;
+ background-color: #dad4df;
+}
 
