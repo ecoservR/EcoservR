@@ -395,5 +395,21 @@ a {
  margin-top: 100px;
  left: 50%;
  background-color: #dad4df;
+   
+     @include large {
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    font-size: 1.1rem;
+  }
+
+  @include medium {
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
 }
 
