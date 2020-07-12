@@ -388,17 +388,16 @@ a {
   color: $blockquote-text-color;
 }
 
- .row-fullbackup{
+ .row-full{
  width: 100vw;
  position: relative;
  margin-left: -50vw;
  margin-top: 100px;
  left: 50%;
  background-color: #dad4df;
- padding-left: 25%;
    
   @include large {
-    padding: 2rem calc(50% - 50vw);
+    padding: 2rem 6rem;
     font-size: 1.1rem;
   }
 
