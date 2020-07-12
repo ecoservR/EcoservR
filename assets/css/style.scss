@@ -397,3 +397,12 @@ a {
  background-color: #e4e3e5;
 }
 
+ .release{
+ width: 100vw;
+ position: relative;
+ margin-left: -50vw;
+ margin-top: 100px;
+ left: 50%;
+ background-color: #e4e3e5;
+ background-image: url('{{ site.baseurl}}/img/ecoservRbanner.JPG');
+}
