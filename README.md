@@ -43,7 +43,8 @@ When all the desired datasets have been added to the basemap, a rule-based class
 
 .... Phase 1 code... future compatibility with UK HAB
 
-
+<div display="block" class="row-full" markdown="1">
+  <div class="main-content" markdown="1">
 
 # Ecosystem services
 
@@ -57,7 +58,8 @@ principles behind capacity
 
 principles behind demand
 
-
+</div>
+</div>
 
 # Applications
 
@@ -70,10 +72,14 @@ some text here
 ## Cheshire work
 some text here
 
-
+<div display="block" class="release" markdown="1">
+  <div class="main-content" markdown="1">
 # EcoservR release
 
 We are working towards a beta-release of the toolkit as a series of R scripts in late August 2020. 
+
+</div>
+</div>
 
 # Contact
 
