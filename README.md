@@ -12,7 +12,8 @@ internal links to sections on the page
 + [EcoservR release](#ecoservr-release)
 + [Get in touch](#contact)
 
-<div display="block" style="background-color: #e9e6ec;" markdown="1">
+<div display="block" class="row-full" markdown="1">
+  <div class="main-content">
 
 # The Ecoserv approach
 
@@ -22,6 +23,7 @@ Motivation for re-writing in R
 
 For use in England, eventually Great Britain
 
+  </div>
 </div>
 
 # Environmental baseline
