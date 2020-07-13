@@ -45,12 +45,20 @@ When all the desired datasets have been added to the basemap, a rule-based class
 
 # Ecosystem services
 
-Description and list of the services we cover 
+EcoservR measures and maps a range of ecosystem services. Capacity and demand maps can be analysed to identify opportunities and "pinch points", to plan and deliver interventions where they are best suited and most needed. The current toolkit includes:
 
-## Capacity
++ __Carbon storage__:
++ __Air purification__: 
++ __Water purification__: 
++ __Pollination__: 
++ __Local climate regulation__: 
++ __Noise regulation__: 
++ __Accessible nature experience__: 
 
-principles behind capacity
+We are currently developing models to measure __carbon sequestration__, __biodiversity__, and __flood risk mitigation__.
 
+
+IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
 
 <div display="block" class="row-full" markdown="1">
   <div class="main-content" markdown="1">
@@ -60,9 +68,6 @@ principles behind capacity
 </div>
 </div>
 
-## Demand 
-
-principles behind demand
 
 
 
@@ -71,10 +76,10 @@ principles behind demand
 ## ELMS Test and Trial
 some text here
 
-## Liverpool City Region
+## Liverpool City Region baseline
 some text here
 
-## Cheshire work
+## Cheshire & Warrington baseline
 some text here
 
 # EcoservR release
