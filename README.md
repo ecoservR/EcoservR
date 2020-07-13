@@ -69,12 +69,10 @@ IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
 </div>
 
 
-
-
 # Applications
 
 ## ELMS Test and Trial
-some text here
+We are using EcoservR to develop an environmental baseline of the Dane river catchment area (Cheshire) and quantify ecosystem services at farm- to landscape- scale to help inform land management plans. 
 
 ## Liverpool City Region baseline
 some text here
