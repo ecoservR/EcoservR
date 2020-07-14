@@ -416,6 +416,7 @@ margin-bottom: 10px;
 
 # baseline {
   overflow: auto;
+  clear: both;
 }
 
 #baseline img{
@@ -433,6 +434,10 @@ margin-bottom: 10px;
   @include small {
     max-width: 100vw;
   }
+}
+
+#datasets {
+background-color: #e7e7e7;
 }
   
 #services {
