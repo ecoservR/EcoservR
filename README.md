@@ -25,7 +25,8 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
 
 # Environmental baseline
 
-| Description of the baseline process.........  | ![baseline](img/sample_baseline.png) |
+| Description of the baseline process.........  | ![baseline](img/sample_basemap.png)|
+|                                               |  *Caption for the basemap* |
 
 ## Datasets
 
