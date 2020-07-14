@@ -420,3 +420,45 @@ background-color: #efedf0;
 #contact h1 {
     color: #ffffff;
   } 
+
+#table-left-wide{
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all; // For Firefox to horizontally scroll wider tables.
+    -webkit-overflow-scrolling: touch;
+
+    th {
+      font-weight: bold;
+    }
+
+  th:1{
+    width: 70%;
+}
+  th:2{
+    width: 30%;
+}
+  
+    th,
+    td {
+      padding: 0.5rem 1rem;
+      border: 0px solid #ffffff;
+    }
+  }
+
+  dl {
+    padding: 0;
+
+    dt {
+      padding: 0;
+      margin-top: 1rem;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+
+    dd {
+      padding: 0;
+      margin-bottom: 1rem;
+    }
+  }
