@@ -28,8 +28,7 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
   
 # Environmental baseline
 
-Description of the baseline process......... LOOOOOOONG text very long text Description of the baseline process....... LOOOOOONG text very long text Description of the baseline process..... LOOONG text very long text   
-![baseline](img/sample_basemap.png#right)
+Description of the baseline process......... LOOOOOOONG text very long text Description of the baseline process....... LOOOOOONG text very long text Description of the baseline process..... LOOONG text very long text. ![baseline](img/sample_basemap.png)
 
   </div>
 </div>
