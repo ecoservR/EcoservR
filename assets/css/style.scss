@@ -413,8 +413,9 @@ background-color: #efedf0;
 }
 
 #baseline img{
- max-height: 50% !important;
-  float: right;
+ max-height: 50%;
+ max-width: 25vw;
+ float: right;
 }
   
 #contact{
