@@ -62,6 +62,9 @@ When all the desired datasets have been added to the basemap, a rule-based class
 
 .... Phase 1 code... future compatibility with UK HAB
 
+<div display="block" class="row-full" id="services" markdown="1">
+  <div class="main-content" markdown="1">
+
 # Ecosystem services
 
 EcoservR measures and maps a range of ecosystem services. Capacity and demand maps can be analysed to identify opportunities and "pinch points", to plan and deliver interventions where they are best suited and most needed. The current toolkit includes:
@@ -75,6 +78,8 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 + __Accessible nature__: opportunities for people to enjoy natural places around their everyday working and living space. 
 
 We are currently developing models to measure __carbon sequestration__, __biodiversity__, and __flood risk mitigation__.
+  </div>
+</div>
 
  ![services](img/sample_services.png)
  *Example of capacity score maps for a farm holding in Cheshire*
