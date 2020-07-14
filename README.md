@@ -28,7 +28,7 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
    
 # Environmental baseline
 
-![baseline](img/sample_basemap.png) Description of the baseline process......... LOOOOOOONG text very long text Description of the baseline process....... LOOOOOONG text very long text Description of the baseline process..... LOOONG text very long text. As you can see, I added 10px of padding to the right side of the left-aligned image. I also used the float property to move the image out of the normal flow of the document and put it to the left side of the parent container.
+![baseline](img/sample_basemap.png#right) Description of the baseline process......... LOOOOOOONG text very long text Description of the baseline process....... LOOOOOONG text very long text Description of the baseline process..... LOOONG text very long text. As you can see, I added 10px of padding to the right side of the left-aligned image. I also used the float property to move the image out of the normal flow of the document and put it to the left side of the parent container.
 
 </div>
 </div>
