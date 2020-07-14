@@ -69,11 +69,10 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 We are currently developing models to measure __carbon sequestration__, __biodiversity__, and __flood risk mitigation__.
 
 
-IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
-
-<div display="block" class="row-full" id="servicemap" markdown="1">
+<div display="block" class="row-full" markdown="1">
   <div class="main-content" markdown="1">
 
+IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
   
 </div>
 </div>
