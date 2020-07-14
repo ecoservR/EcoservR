@@ -168,7 +168,6 @@ a {
 
 .main-content {
   word-wrap: break-word;
-  overflow: auto;
 
   :first-child {
     margin-top: 0;
@@ -413,6 +412,10 @@ img[src*='#center'] {
 background-color: #efedf0;
 margin-top: 10px;
 margin-bottom: 10px;
+}
+
+# baseline {
+  overflow: auto;
 }
 
 #baseline img{
