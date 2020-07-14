@@ -410,13 +410,13 @@ img[src*='#center'] {
 
 #about {
 background-color: #efedf0;
+margin-top: 10px;
+margin-bottom: 10px;
 }
 
 #baseline img{
- max-height: 50%;
- max-width: 35vw;
  float: right;
- padding-left: 15px;
+ padding: 20px;
   
   @include large {
     max-width: 30vw;
@@ -431,9 +431,11 @@ background-color: #efedf0;
   }
 }
   
-#datasets {
+#services {
 background-color: #544a5a;
 color: #ffffff;
+margin-top: 10px;
+margin-bottom: 10px;
   
   h1{
     color: #ffffff;
