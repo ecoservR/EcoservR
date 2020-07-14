@@ -21,8 +21,6 @@ EcoservR is an updated version of [Ecoserv-GIS](https://www.nature.scot/snh-rese
 
 We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency on proprietary software and workflows that were no longer supported. [R](https://www.r-project.org/) is a free, open-source software widely used in the environmental sciences and with growing geospatial capacities. EcoservR currently supports 7 of the 9 original Ecoserv-GIS ecosystem services. It is currently restricted to English datasets but we are planning support for the whole of Great Britain. 
 
-More general stuff.....
-
   </div>
 </div>
 
@@ -32,7 +30,20 @@ Description and image
 
 ## Datasets
 
-list of datasets used in baseline
+EcoservR uses nationally available datasets, most of which are free and available under an Open Government licence. Required datasets are indicated in bold, while the rest are optional. Some service models require additional layers. 
+
++ __OS MasterMap__ (*licence required*)
++ OS Greenspace (*license required*) and/or __Open Greenspace__
++ Natural England __Priority Habitat Inventory__
++ CORINE land cover (recommended)
++ Crop Map of England (recommended)
++ National Forest Inventory
++ Terrain data (DTM) (*required for water service models*)
++ Public Rights of Way (*recommended for accessible nature models*)
++ CRoW Open Access land (*recommended for accessible nature models*)
++ Designated sites (LNR, NNR, national parks, etc.) (*recommended for accessible nature models*)
+
+*Note: These layers are indicated for sites in England. We are planning to incorporate workflows for Scottish and Welsh sites next year.*
 
 ## Generating a baseline 
 brief description of processing steps
@@ -47,23 +58,22 @@ When all the desired datasets have been added to the basemap, a rule-based class
 
 EcoservR measures and maps a range of ecosystem services. Capacity and demand maps can be analysed to identify opportunities and "pinch points", to plan and deliver interventions where they are best suited and most needed. The current toolkit includes:
 
-+ __Carbon storage__:
-+ __Air purification__: 
-+ __Water purification__: 
-+ __Pollination__: 
-+ __Local climate regulation__: 
-+ __Noise regulation__: 
-+ __Accessible nature experience__: 
++ __Carbon storage__: storage of carbon in above- and below-ground biomass, including the upper 30 cm of soil
++ __Air purification__: removal of pollutants from the air by natural vegetation
++ __Water purification__: interception of pollutants by natural vegetation before they can enter a water course
++ __Pollination__: contribution of some insects to crop yield by carrying pollen across the landscape
++ __Local climate regulation__: mitigation of "heat island" effects by natural features that absorb excess heat or provide shade
++ __Noise regulation__: absorption of traffic noise by vegetation
++ __Accessible nature__: opportunities for people to enjoy natural places around their everyday working and living space. 
 
 We are currently developing models to measure __carbon sequestration__, __biodiversity__, and __flood risk mitigation__.
 
 
 IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
 
-<div display="block" class="row-full" markdown="1">
+<div display="block" class="row-full" id="servicemap" markdown="1">
   <div class="main-content" markdown="1">
-  
-  ![services](img/ecoservRservices.png)
+
   
 </div>
 </div>
@@ -74,6 +84,8 @@ IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
 ## ELMS Test and Trial
 We are using EcoservR to develop an environmental baseline of the Dane river catchment area (Cheshire) and quantify ecosystem services at farm- to landscape- scale to help inform land management plans. 
 
+  ![services](img/ecoservRservices.png)
+  
 ## Liverpool City Region baseline
 some text here
 
