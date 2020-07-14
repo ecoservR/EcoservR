@@ -416,6 +416,18 @@ background-color: #efedf0;
  max-height: 50%;
  max-width: 35vw;
  float: right;
+  
+  @include large {
+    max-width: 30vw;
+  }
+
+  @include medium {
+    max-width: 55vw;
+  }
+
+  @include small {
+    max-width: 100vw;
+  }
 }
   
 #contact{
