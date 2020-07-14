@@ -4,7 +4,6 @@ EcoservR is a tool for mapping natural capital assets and ecosystem services. It
 
 ### Jump to...
 
-internal links to sections on the page
 + [The Ecoserv approach](#the-ecoserv-approach)
 + [Environmental baseline](#environmental-baseline)
 + [Ecosystem services](#ecosystem-services)
@@ -83,7 +82,7 @@ IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
 ## ELMS Test and Trial
 We are using EcoservR to develop an environmental baseline of the Dane river catchment area (Cheshire) and quantify ecosystem services at farm- to landscape- scale to help inform land management plans. 
 
-  ![services](img/ecoservRservices.png)
+  ![services](img/ecoservRservices.png#right)
   
 ## Liverpool City Region baseline
 some text here
