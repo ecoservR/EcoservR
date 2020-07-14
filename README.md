@@ -68,7 +68,7 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 We are currently developing models to measure __carbon sequestration__, __biodiversity__, and __flood risk mitigation__.
 
  ![services](img/sample_services.png)
- *Example of ecosystem services score maps for a farm holding in Cheshire*
+ *Example of capacity score maps for a farm holding in Cheshire*
 
 
 <div display="block" class="row-full" markdown="1">
