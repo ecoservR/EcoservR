@@ -82,7 +82,9 @@ IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
 ## ELMS Test and Trial
 We are using EcoservR to develop an environmental baseline of the Dane river catchment area (Cheshire) and quantify ecosystem services at farm- to landscape- scale to help inform land management plans. 
 
-  ![services](img/ecoservRservices.png#right)
+| I am text to the left. This is an image of carbon storage capacity. Isn't it great?  | ![services](img/ecoservRservices.png#right){ width=50% height=auto } |
+
+
   
 ## Liverpool City Region baseline
 some text here
