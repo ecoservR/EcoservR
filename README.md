@@ -23,11 +23,14 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
   </div>
 </div>
 
+<div display="block" class="row-full" id="baseline" markdown="1">
+  <div class="main-content" markdown="1">
 # Environmental baseline
 
-| Description of the baseline process......... LOOOOOOOOOOOOOOOONG text very long text Description of the baseline process......... LOOOOOOOOOOOOOOOONG text very long text Description of the baseline process......... LOOOOOOOOOOOOOOOONG text very long text  | ![baseline](img/sample_basemap.png)|
-|                                               |  *Caption for the basemap* |
-
+Description of the baseline process......... LOOOOOOONG text very long text Description of the baseline process....... LOOOOOONG text very long text Description of the baseline process..... LOOONG text very long text   
+![baseline](img/sample_basemap.png#right)
+</div>
+</div>
 
 ## Datasets
 
