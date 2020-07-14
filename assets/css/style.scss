@@ -168,6 +168,7 @@ a {
 
 .main-content {
   word-wrap: break-word;
+  overflow: auto;
 
   :first-child {
     margin-top: 0;
