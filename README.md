@@ -12,7 +12,6 @@ EcoservR is a tool for mapping natural capital assets and ecosystem services. It
 + [Get in touch](#get-in-touch)
 
 
-
 <div display="block" class="row-full" id="about" markdown="1">
   <div class="main-content" markdown="1">
 
@@ -38,8 +37,7 @@ When all the desired datasets have been added to the basemap, a rule-based class
 
 <br style="clear:both" />
 
-</div>
-</div>
+</div></div>
 
 <div display="block" class="row-full" id="datasets" markdown="1">
   <div class="main-content" markdown="1">
