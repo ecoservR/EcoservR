@@ -4,6 +4,8 @@ EcoservR is a tool for mapping natural capital assets and ecosystem services. It
 
 ### Jump to...
 
+Maybe go and see our [test page](testpage.md)
+
 + [The Ecoserv approach](#the-ecoserv-approach)
 + [Environmental baseline](#environmental-baseline)
 + [Ecosystem services](#ecosystem-services)
