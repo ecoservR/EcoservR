@@ -28,7 +28,11 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
    
 # Environmental baseline
 
-![baseline](img/sample_basemap.png#right) A detailed habitat map is the ...............
+![baseline](img/sample_basemap.png#right) A detailed habitat map is the ............... 
+
+When all the desired datasets have been added to the basemap, a rule-based classification step assigns a habitat code to each polygons. Currently, the datasets with the ability to inform this classification are OS MasterMap, OS (Open) Greenspace, Priority Habitat Inventory, CROME, and CORINE. Other rules based on polygon size also inform the classification.
+
+.... Phase 1 code... future compatibility with UK HAB
 
 <br style="clear:both" />
 
@@ -57,14 +61,6 @@ EcoservR uses nationally available datasets, most of which are free and availabl
   </div>
 </div>
 
-## Generating a baseline 
-brief description of processing steps
-
-## Habitat classification
-
-When all the desired datasets have been added to the basemap, a rule-based classification step assigns a habitat code to each polygons. Currently, the datasets with the ability to inform this classification are OS MasterMap, OS (Open) Greenspace, Priority Habitat Inventory, CROME, and CORINE. Other rules based on polygon size also inform the classification.
-
-.... Phase 1 code... future compatibility with UK HAB
 
 <div display="block" class="row-full" id="services" markdown="1">
   <div class="main-content" markdown="1">
@@ -89,22 +85,13 @@ We are currently developing models to measure __carbon sequestration__, __biodiv
  *Example of capacity score maps for a farm holding in Cheshire*
 
 
-<div display="block" class="row-full" markdown="1">
-  <div class="main-content" markdown="1">
-
-IMAGE: EXAMPLE OF CAPACITY AND DEMAND MAP
-  
-</div>
-</div>
-
-
 # Applications
 
 ## ELMS Test and Trial
 We are using EcoservR to develop an environmental baseline of the Dane river catchment area (Cheshire) and quantify ecosystem services at farm- to landscape- scale to help inform land management plans. 
 
 | I am text to the left. This is an image of carbon storage capacity. Isn't it great?  | ![services](img/ecoservRservices.png#right) |
-
+|  | *and this is a figure caption* |
 
   
 ## Liverpool City Region baseline
