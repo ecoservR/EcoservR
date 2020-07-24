@@ -494,11 +494,11 @@ margin-bottom: 10px;
 }
 
 .downloadbutton:hover {
-  background-color: #72aba1;
+  background-color: #9fd4cb;
   text-decoration: none;
-  color: #e7e7e7;
--webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
--moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  color: #000000;
+-webkit-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+-moz-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
 box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
 transition: all 0.4s ease 0s;
 }
