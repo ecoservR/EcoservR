@@ -39,8 +39,8 @@ Obtaining a natural capital asset map is a first step towards understanding and 
   </div>
 </div>
 
-<div display="block" class="row-full" id="services" markdown="1">
-  <div class="main-content" markdown="1">
+<div display="block" class="row-full-img-left" id="services" markdown="1">
+  <div class="main-content-left" markdown="1">
 
 # Ecosystem services
 
