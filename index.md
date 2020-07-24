@@ -26,7 +26,7 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
   </div>
 </div>
 
-<div display="block" class="row-full-img" id="baseline" markdown="1">
+<div display="block" class="row-full-img-right" id="baseline" markdown="1">
    <div class="main-content" markdown="1">
    
 # Environmental baseline
