@@ -505,18 +505,18 @@ background-size: cover;
 
   @include large {
     max-width: 85rem;
-    padding: 2rem 6rem 2rem 30rem;
+    padding: 2rem 6rem 2rem 40rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
 
   @include medium {
-    padding: 2rem 4rem 2rem 10rem;
+    padding: 2rem 4rem 2rem 20rem;
     font-size: 1.1rem;
   }
 
   @include small {
-    padding: 2rem 1rem 2rem 5rem;
+    padding: 2rem 1rem 2rem 8rem;
     font-size: 1rem;
   }
 }  
