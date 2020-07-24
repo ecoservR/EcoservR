@@ -3,7 +3,7 @@ title: EcoservR
 ---
 
 ## Welcome
-EcoservR is a tool for mapping natural capital assets and ecosystem services. It is a re-write of [Ecoserv-GIS](https://www.nature.scot/snh-research-report-954-ecoserv-gis-v33-toolkit-mapping-ecosystem-services-gb-scale) and is currently being developed and tested at Liverpool John Moores University in collaboration with [Natural Capital Solutions](http://www.naturalcapitalsolutions.co.uk/), [Forest Research](forestresearch.gov.uk/), and the [Cheshire Wildlife Trust](https://www.cheshirewildlifetrust.org.uk/) as part of a [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) test and trial for the new Environmental Land Management System (ELMS).
+EcoservR is a tool for mapping natural capital assets and ecosystem services. It is a re-write of [Ecoserv-GIS](https://www.nature.scot/snh-research-report-954-ecoserv-gis-v33-toolkit-mapping-ecosystem-services-gb-scale) and is currently being developed and tested at [Liverpool John Moores University](https://www.ljmu.ac.uk/) in collaboration with [Natural Capital Solutions](http://www.naturalcapitalsolutions.co.uk/), [Forest Research](forestresearch.gov.uk/), and the [Cheshire Wildlife Trust](https://www.cheshirewildlifetrust.org.uk/) as part of a [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) test and trial for the new Environmental Land Management System (ELMS).
 
 ### Jump to...
 
@@ -31,35 +31,9 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
    
 # Environmental baseline
 
-![baseline](img/sample_basemap.png#right) Obtaining a natural capital asset map is a first step towards understanding and measuring the value of benefits derived from nature. EcoservR produces a detailed habitat map based on a range of nationally-available datasets, using a rule-based classification which assigns a habitat code to each polygon. Current codes are derived from ecological survey (Phase 1) codes, but we are working on a conversion tool to produce UKHab maps.
+Obtaining a natural capital asset map is a first step towards understanding and measuring the value of benefits derived from nature. EcoservR produces a detailed habitat map based on a range of nationally-available datasets, using a rule-based classification which assigns a habitat code to each polygon. 
 
-
-<br style="clear:both" />
-
-</div></div>
-
-<div display="block" class="row-full" id="datasets" markdown="1">
-  <div class="main-content" markdown="1">
-  
-## Datasets
-
-EcoservR uses nationally available datasets, most of which are free and available under an Open Government licence. Required datasets are indicated in bold, while the rest are optional. Some service models require additional layers. 
-
-+ __OS MasterMap__ (*licence required*)
-+ OS Greenspace (*license required*) and/or __Open Greenspace__
-+ Natural England __Priority Habitat Inventory__
-+ CORINE land cover (recommended)
-+ Crop Map of England (recommended)
-+ National Forest Inventory
-+ Terrain data (DTM) (*required for water service models*)
-+ Public Rights of Way (*recommended for accessible nature models*)
-+ CRoW Open Access land (*recommended for accessible nature models*)
-+ Designated sites (LNR, NNR, national parks, etc.) (*recommended for accessible nature models*)
-
-*Note: These layers are indicated for sites in England. We are planning to incorporate workflows for Scottish and Welsh sites next year.*
-  </div>
-</div>
-
+button to baseline page
 
 <div display="block" class="row-full" id="services" markdown="1">
   <div class="main-content" markdown="1">
@@ -68,15 +42,16 @@ EcoservR uses nationally available datasets, most of which are free and availabl
 
 EcoservR measures and maps a range of ecosystem services. Capacity and demand maps can be analysed to identify opportunities and "pinch points", to plan and deliver interventions where they are best suited and most needed. The current toolkit includes:
 
-+ __Carbon storage__: storage of carbon in above- and below-ground biomass, including the upper 30 cm of soil
-+ __Air purification__: removal of pollutants from the air by natural vegetation
-+ __Water purification__: interception of pollutants by natural vegetation before they can enter a water course
-+ __Pollination__: contribution of some insects to crop yield by carrying pollen across the landscape
-+ __Local climate regulation__: mitigation of "heat island" effects by natural features that absorb excess heat or provide shade
-+ __Noise regulation__: absorption of traffic noise by vegetation
-+ __Accessible nature__: opportunities for people to enjoy natural places around their everyday working and living space. 
++ __Carbon storage__
++ __Air purification__
++ __Water purification__
++ __Pollination__
++ __Local climate regulation__
++ __Noise regulation__
++ __Accessible nature__
 
-We are currently developing models to measure __carbon sequestration__, __biodiversity__, and __flood risk mitigation__.
+button to ecoservices page
+
   </div>
 </div>
 
