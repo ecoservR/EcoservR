@@ -439,6 +439,17 @@ img[src*='#center'] {
  background-color: #ffffff;
 }
 
+.row-full-img{
+background-position: 50%;
+width: 100%;
+display: block;
+position: relative;
+overflow: visible;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+}
+
 #about {
 background-color: #efedf0;
 }
