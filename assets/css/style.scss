@@ -439,7 +439,23 @@ img[src*='#center'] {
  background-color: #ffffff;
 }
 
-.row-full-img{
+.row-full-img-right{
+padding-right: 40em;
+background-position: 50%;
+width: 100vw;
+display: block;
+position: relative;
+left: 50%;
+margin-left: -50vw;
+overflow: visible;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+
+.row-full-img-left{
+padding-left: 40em;
 background-position: 50%;
 width: 100vw;
 display: block;
