@@ -29,17 +29,21 @@
   box-sizing: border-box;
 }
 
-ul.topnav {
+.topnav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  
+  @include small {
+  ul.topnav li {float: none;}
+}
 }
 
-ul.topnav li {float: right;}
+.topnav li {float: right;}
 
-ul.topnav li a {
+.topnav li a {
   display: block;
   color: white;
   text-align: center;
@@ -47,14 +51,10 @@ ul.topnav li a {
   text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {background-color: #111;}
+.topnav li a:hover:not(.active) {background-color: #111;}
 
-ul.topnav li a.active {background-color: #acdfdb;}
+.topnav li a.active {background-color: #acdfdb;}
 
-@include small {
-  ul.topnav li.right, 
-  ul.topnav li {float: none;}
-}
 
 body {
   padding: 0;
