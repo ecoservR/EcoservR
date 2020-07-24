@@ -441,13 +441,16 @@ img[src*='#center'] {
 
 .row-full-img{
 background-position: 50%;
-width: 100%;
+width: 100vw;
 display: block;
 position: relative;
+left: 50%;
+margin-left: -50vw;
 overflow: visible;
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center center;
+background-size: cover;
 }
 
 #about {
