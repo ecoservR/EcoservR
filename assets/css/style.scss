@@ -453,11 +453,11 @@ background-position: center center;
 background-size: cover;
   
   @include large {
-    padding-right: 50em;
+    padding-right: 15em;
   }
   
   @include medium {
-   padding-right: 20em;
+   padding-right: 8em;
   }
   
   @include small {
