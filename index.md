@@ -35,6 +35,9 @@ Obtaining a natural capital asset map is a first step towards understanding and 
 
 button to baseline page
 
+  </div>
+</div>
+
 <div display="block" class="row-full" id="services" markdown="1">
   <div class="main-content" markdown="1">
 
