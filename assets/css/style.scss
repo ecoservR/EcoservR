@@ -445,23 +445,12 @@ position: relative;
 margin-left: -50vw;
 left: 50%;
 overflow: visible;
-background-position: 50%;
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
-  
-  @include large {
-    padding-right: 15em;
-  }
-  
-  @include medium {
-   padding-right: 8em;
-  }
-  
-  @include small {
-   padding-right: 5em;
-  }
+padding-right: 30em; 
+
 }
 
 .row-full-img-left{
