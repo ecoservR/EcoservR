@@ -443,6 +443,10 @@ img[src*='#center'] {
 background-color: #efedf0;
 }
 
+#baseline {
+background-image: url('{{site.baseurl}}/img/dane_baseline_bg.png');
+}
+
 #baseline img{
  padding: 20px;
   
