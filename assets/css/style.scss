@@ -493,7 +493,9 @@ margin-bottom: 10px;
 }
 
 .downloadbutton hover {
-background-color: #72aba1;
+  background-color: #72aba1;
+  text-decoration: none;
+  color: #e7e7e7;
 -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
 -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
 box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
