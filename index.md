@@ -33,7 +33,8 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
 
 Obtaining a natural capital asset map is a first step towards understanding and measuring the value of benefits derived from nature. EcoservR produces a detailed habitat map based on a range of nationally-available datasets, using a rule-based classification which assigns a habitat code to each polygon. 
 
-button to baseline page
+
+<a class="linkbutton" href="{{ site.github.url }}/basemap"> Learn more </a>
 
   </div>
 </div>
@@ -53,7 +54,7 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 + __Noise regulation__
 + __Accessible nature__
 
-button to ecoservices page
+<a class="linkbutton" href="{{ site.github.url }}/ecoservices"> Learn more </a>
 
   </div>
 </div>
