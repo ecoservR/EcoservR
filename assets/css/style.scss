@@ -430,6 +430,8 @@ img[src*='#center'] {
   color: $blockquote-text-color;
 }
 
+
+// Outer div to allow coloured bg full width --- 
  .row-full{
  width: 100vw;
  position: relative;
@@ -439,7 +441,10 @@ img[src*='#center'] {
  background-color: #ffffff;
 }
 
+// Outer divs to allow fixed-image bgs full width ---
+
 .row-full-img-right{
+background-position: 50%;
 width: 100vw;
 position: relative;
 margin-left: -50vw;
@@ -454,29 +459,43 @@ background-size: cover;
 .row-full-img-left{
 background-position: 50%;
 width: 100vw;
-display: block;
 position: relative;
-left: 50%;
 margin-left: -50vw;
+left: 50%;
 overflow: visible;
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
-  
-  @include large {
-    padding-left: 50em;
-  }
-  
-  @include medium {
-   padding-left: 20em;
-  }
-  
-  @include small {
-   padding-left: 5em;
-  }
 }
+// these are the inner div classes to go with full-width bg image
+.main-content-right {
+  word-wrap: break-word;
 
+  :first-child {
+    margin-top: 0;
+  }
+
+  @include large {
+    max-width: 85rem;
+    padding: 2rem 30rem 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+
+  @include medium {
+    padding: 2rem 10rem 2rem 4rem;
+    font-size: 1.1rem;
+  }
+
+  @include small {
+    padding: 2rem 5rem 2rem 1rem;
+    font-size: 1rem;
+  }
+  
+  
+
+// ID-specific parameters (images, fonts etc) ---
 #about {
 background-color: #efedf0;
 }
@@ -510,6 +529,7 @@ margin-bottom: 10px;
     color: #ffffff;
   } 
 
+// Custom buttons ---
 .downloadbutton {
   padding: 20px;
   color: #f2f2f2f2;
@@ -550,6 +570,7 @@ box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
 transition: all 0.4s ease 0s;
 }
 
+// Responsive image full width
 .responsive {
   max-width: 100%;
   height: auto;
