@@ -474,7 +474,8 @@ background-color: #efedf0;
 }
 
 #baseline {
-background-image: url('{{site.baseurl}}/img/dane_baseline_bg.png');
+background-image: linear-gradient(120deg, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.05)),
+  url('{{site.baseurl}}/img/dane_baseline_bg.png');
 }
 
 #baseline img{
