@@ -440,7 +440,6 @@ img[src*='#center'] {
 }
 
 .row-full-img-right{
-padding-right: 40em;
 background-position: 50%;
 width: 100vw;
 display: block;
@@ -452,10 +451,21 @@ background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
+  
+  @include large {
+    padding-right: 50em;
+  }
+  
+  @include medium {
+   padding-right: 20em;
+  }
+  
+  @include small {
+   padding-right: 5em;
+  }
 }
 
 .row-full-img-left{
-padding-left: 40em;
 background-position: 50%;
 width: 100vw;
 display: block;
@@ -467,6 +477,18 @@ background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
+  
+  @include large {
+    padding-left: 50em;
+  }
+  
+  @include medium {
+   padding-left: 20em;
+  }
+  
+  @include small {
+   padding-left: 5em;
+  }
 }
 
 #about {
