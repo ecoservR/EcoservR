@@ -2,8 +2,12 @@
 
 Obtaining a natural capital asset map is a first step towards understanding and measuring the value of benefits derived from nature. EcoservR produces a detailed habitat map based on a range of nationally-available datasets, using a rule-based classification which assigns a habitat code to each polygon. Current codes are derived from ecological survey (Phase 1) codes, but we are working on a conversion tool to produce [UKHab](https://ecountability.co.uk/ukhabworkinggroup-ukhab/)-compatible maps.
 
+<br>
+
 <img src="img/dane_congleton_basemap.png" alt="Basemap sample" class="responsive">
 *Simplified habitat map for part of the Dane river catchment around Congleton, Cheshire*
+
+<br>
 
 <div display="block" class="row-full" id="datasets" markdown="1">
   <div class="main-content" markdown="1">
