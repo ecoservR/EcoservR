@@ -530,6 +530,7 @@ background-color: #efedf0;
 #baseline {
 background-image: linear-gradient(120deg, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.05)),
   url('{{site.baseurl}}/img/dane_baseline_bg.png');
+overflow-x:hidden;
 }
 
 #datasets {
@@ -543,6 +544,7 @@ background-image: linear-gradient(120deg, rgba(130, 113, 141, 0.25), rgba(86, 64
 color: #ffffff;
 margin-top: 0px;
 margin-bottom: 0px;
+overflow-x:hidden;
   
   h1{
     color: #ffffff;
