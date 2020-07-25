@@ -1,6 +1,6 @@
 # Ecosystem services
 
-EcoservR measures and maps a range of ecosystem services. Capacity and demand maps can be analysed to identify opportunities and "pinch points", to plan and deliver interventions where they are best suited and most needed. The current toolkit includes:
+EcoservR measures and maps a range of ecosystem services. For each service, the tool produces a **capacity** and a **demand** map. Capacity refers to the ability of the landscape to provide a service, and depends mostly on the type of habitats present and their spatial configuration. Demand is the need for a service, defined by a combination of regulatory (e.g. land use type) and societal (population density and health status) factors. Capacity and demand maps can be analysed together to identify opportunities and "pinch points", to plan and deliver interventions where they are best suited and most needed. The current toolkit includes:
 
 + __Carbon storage__: storage of carbon in above- and below-ground biomass, including the upper 30 cm of soil
 + __Air purification__: removal of pollutants from the air by natural vegetation
