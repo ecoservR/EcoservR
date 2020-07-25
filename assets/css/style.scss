@@ -63,6 +63,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  overflow-x:hidden;
 }
 
 #skip-to-content {
@@ -439,7 +440,6 @@ img[src*='#center'] {
  margin-top: 0px;
  left: 50%;
  background-color: #ffffff;
- overflow-x: hidden;
 }
 
 // Outer divs to allow fixed-image bgs full width ---
@@ -530,7 +530,6 @@ background-color: #efedf0;
 #baseline {
 background-image: linear-gradient(120deg, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.05)),
   url('{{site.baseurl}}/img/dane_baseline_bg.png');
-overflow-x:hidden;
 }
 
 #datasets {
@@ -544,7 +543,6 @@ background-image: linear-gradient(120deg, rgba(130, 113, 141, 0.25), rgba(86, 64
 color: #ffffff;
 margin-top: 0px;
 margin-bottom: 0px;
-overflow-x:hidden;
   
   h1{
     color: #ffffff;
