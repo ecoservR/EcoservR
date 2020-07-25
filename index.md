@@ -63,6 +63,10 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 
 We are working towards a beta-release of the toolkit as a series of R scripts in late August 2020, and with a user interface later in the year.
 
+Watch this space!
+
+<br>
+
 
 <div display="block" class="row-full" id="contact" markdown="1">
   <div class="main-content" markdown="1">
