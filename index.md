@@ -20,6 +20,7 @@ EcoservR is an updated version of [Ecoserv-GIS](https://www.nature.scot/snh-rese
 
 We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency on proprietary software and workflows that were no longer supported. [R](https://www.r-project.org/) is a free, open-source software widely used in the environmental sciences and with growing geospatial capabilities. EcoservR currently supports 7 of the 9 original Ecoserv-GIS ecosystem services. Its applicability is curretnly restricted to England, but we are planning support for the whole of Great Britain in the coming year. 
 
+<br>
 
 <div display="block" class="row-full-img-right" id="baseline" markdown="1">
    <div class="main-content-right" markdown="1">
@@ -29,6 +30,8 @@ We decided to re-write Ecoserv-GIS in the R language to eliminate the dependency
 Obtaining a natural capital asset map is a first step towards understanding and measuring the value of benefits derived from nature. EcoservR produces a detailed habitat map based on a range of nationally-available and mostly free datasets.
 
 <a class="linkbutton" href="{{ site.github.url }}/basemap"> Learn more </a>
+
+<br>
 
   </div>
 </div>
@@ -54,9 +57,6 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 
   </div>
 </div>
-
- ![services](img/sample_services.png)
- *Example of capacity score maps for a farm holding in Cheshire*
 
 
 # EcoservR release
