@@ -1,6 +1,8 @@
 # EcoservR applications
 
+By providing a detailed environmental baseline and evidence-based, nationally consistent measures of ecosystem services, EcoservR can inform and support initiatives underpinned by natural capital principles, such as net-gain development, green infrastructure strategies, zero carbon targets, etc.
 
+Here are some of our ongoing projects that use EcoservR.
 
 ## Upper Dane catchment ELMS Test and Trial
 
