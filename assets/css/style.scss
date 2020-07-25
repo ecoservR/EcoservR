@@ -63,6 +63,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  overflow-x: hidden;
 }
 
 #skip-to-content {
@@ -195,6 +196,7 @@ a {
 
 .main-content {
   word-wrap: break-word;
+  overflow-x: hidden;
 
   :first-child {
     margin-top: 0;
@@ -439,6 +441,7 @@ img[src*='#center'] {
  margin-top: 0px;
  left: 50%;
  background-color: #ffffff;
+ overflow-x: hidden;
 }
 
 // Outer divs to allow fixed-image bgs full width ---
