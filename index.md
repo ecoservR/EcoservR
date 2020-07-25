@@ -50,6 +50,8 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 
 <a class="linkbutton" href="{{ site.github.url }}/ecoservices" style="float:right;"> Learn more </a>
 
+<br style="clear:both" />
+
   </div>
 </div>
 
