@@ -26,6 +26,8 @@ EcoservR uses nationally available datasets, most of which are free and availabl
 + Public Rights of Way (*recommended for accessible nature models*)
 + CRoW Open Access land (*recommended for accessible nature models*)
 + Designated sites (LNR, NNR, national parks, etc.) (*recommended for accessible nature models*)
++ Census data (population density)
++ Index of Multiple Deprivation (health data)
 
 *Note: These layers are appropriate for sites in England. We are planning to incorporate workflows for Scottish and Welsh sites next year.*
   </div>
