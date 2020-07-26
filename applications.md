@@ -14,7 +14,7 @@ Here are some of our ongoing projects that use EcoservR.
 
 ## Upper Dane catchment ELMS Test and Trial
 
-We are using EcoservR to develop an environmental baseline of the Dane river catchment area (Cheshire) and quantify ecosystem services at farm- to landscape- scale to help inform land management plans. This test and trial is funded by Defra from January to August 2020. 
+The new Environmental Land Management System (ELMS), set to replace the Common Agricultural Policy in the UK, will revolve around using "public money for public goods" to support agri-environmental schemes. We are using EcoservR to develop an environmental baseline of the Dane river catchment area (Cheshire) and quantify ecosystem services at farm- to landscape- scale to help inform land management plans. This test and trial is funded by Defra from January to August 2020. 
 
 <br>
 
