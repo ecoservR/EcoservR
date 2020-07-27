@@ -11,7 +11,7 @@ All partners logos
          class = "logos">
       </a> </td>
 
-    <td><a href="=https://www.forestresearch.gov.uk/">
+    <td><a href="https://www.forestresearch.gov.uk/">
          <img alt="Forest Research logo" src="img/placeholder.png"
          class = "logos">
       </a></td>
