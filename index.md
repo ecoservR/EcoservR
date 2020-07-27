@@ -10,7 +10,7 @@ EcoservR is a tool for mapping natural capital assets and ecosystem services. It
 + [The Ecoserv approach](#the-ecoserv-approach)
 + [Environmental baseline](#environmental-baseline)
 + [Ecosystem services](#ecosystem-services)
-+ [How do I get EcoservR?](#ecoservr-release)
++ [Can I use EcoservR?](#ecoservr-release)
 + [Get in touch](#get-in-touch)
 
 
@@ -62,7 +62,7 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 
 # EcoservR release
 
-We are working towards a beta-release of the toolkit as a series of R scripts in late August 2020, and with a user interface later in the year.
+We are working towards a beta-release of the toolkit as a series of R scripts in late August 2020, and with a user interface later in the year. EcoservR will be free to use.
 
 Watch this space!
 
