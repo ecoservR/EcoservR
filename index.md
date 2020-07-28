@@ -31,8 +31,6 @@ Obtaining a natural capital asset map is a first step towards understanding and 
 
 <a class="linkbutton" href="{{ site.github.url }}/basemap"> Learn more </a>
 
-<br>
-
   </div>
   <p class = "disclaimer">Background image contains Ordnance Survey data © Crown copyright and database rights 2020 Ordnance Survey (100025252)</p>
 </div>
