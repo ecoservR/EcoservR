@@ -1,0 +1,13 @@
+# Mapping interventions
+
+This is a test where I describe interventions and then show the map.
+
+## How we do it
+
+We update the basemap to reflect changes in land use.
+
+## And it looks like this
+
+Results can be measured at multiple scales..
+
+{% include mymap_test.md %}	
