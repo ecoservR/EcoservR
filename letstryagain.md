@@ -4,29 +4,12 @@
 
 ## The Juxtapose method
 
-<div id="foo"></div>
-<script>
-slider = new juxtapose.JXSlider('#foo',
-    [
-        {
-            src: 'img/baseline2.png',
-            label: 'Baseline',
-            credit: 'Image Credit'
-        },
-        {
-            src: 'img/intervention2_annot.png',
-            label: 'Interventions',
-            credit: "Image Credit"
-        }
-    ],
-    {
-        animate: true,
-        showLabels: true,
-        showCredits: true,
-        startingPosition: "50%",
-        makeResponsive: true
-    });
-</script>
+<div class="juxtapose">
+    <img src="img/baseline2.png" />
+    <img src="img/intervention2_annot.png" />
+</div>
+<script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
+<link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 
 ## Modelling interventions
 
