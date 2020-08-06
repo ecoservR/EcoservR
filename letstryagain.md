@@ -6,8 +6,10 @@
 
 Explore the map!
 
-<div display = "block">
+<div display="block" class="row-full" id="map" markdown="1">
+  <div class="main-content">
 {% include mmap_edit.html %}
+</div>
 </div>
 
 *Here is a legend for the maps*
