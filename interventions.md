@@ -16,3 +16,6 @@ Images of mastermap and mastermap (digitised intervention)
 Image (or gif?) of pre- and post- service(s)
 
 Table of gains/losses at multiple scales
+
+
+<script> /*Execute a function that will execute an image compare function for each element with the img-comp-overlay class:*/ initComparisons(); </script>
