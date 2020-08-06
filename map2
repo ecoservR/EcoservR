@@ -10,4 +10,6 @@ We update the basemap to reflect changes in land use.
 
 Results can be measured at multiple scales..
 
-{% include mymap_test.md %}	
+<div>
+{% include_relative mymap_test.md %}
+</div>
