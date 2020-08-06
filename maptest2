@@ -1,9 +1,9 @@
-# Interventions
-
+# Interventions test
+ 
 This is how we do it.
 
 ## Results
 
 Explore the map!
 
-{% include_relative mmap_edit.md %}
+{% include mmap_edit.md %}
