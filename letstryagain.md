@@ -5,8 +5,8 @@
 ## Baseline vs interventions
 
 <div class="juxtapose">
-    <img src="img/baseline2.png" width = "700"/>
-    <img src="img/intervention2_annot.png" width = "700"/>
+    <img src="img/baseline2.png"/>
+    <img src="img/intervention2_annot.png"/>
 </div>
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
