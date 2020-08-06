@@ -13,6 +13,10 @@
   </div>
 </div>
 
+## and image on its own
+
+<img src="img/baseline2.png" width="700" height=auto>
+
 ## Results
 
 Explore the map!
