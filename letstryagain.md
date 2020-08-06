@@ -1,4 +1,4 @@
-<script src="js/slider.js"
+<script src="js/slider.js">
 </script> 
 
 # Yet another test
