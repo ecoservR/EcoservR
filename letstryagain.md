@@ -6,4 +6,4 @@ I want text here... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, se
 
 Explore the map!
 
-{% include mmap_edit.md %}
+{% include mmap_edit.html %}
