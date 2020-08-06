@@ -6,4 +6,6 @@ I want text here... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, se
 
 Explore the map!
 
+<div>
 {% include mmap_edit.html %}
+</div>
