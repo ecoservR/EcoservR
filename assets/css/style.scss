@@ -632,7 +632,7 @@ padding-left: 5vw;
 
 
 // For image comparison with slider
-
+* {box-sizing: border-box;}
 .img-comp-container {
   position: relative;
   height: 200px; /*should be the same height as the images*/
