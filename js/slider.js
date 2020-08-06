@@ -66,11 +66,11 @@ function initComparisons() {
       x = x - window.pageXOffset;
       return x;
     }
-   /* function slide(x) {
+    function slide(x) {
       /* Resize the image: */
-   /*   img.style.width = x + "px";
+      img.style.width = x + "px";
       /* Position the slider: */
-   /*   slider.style.left = img.offsetWidth - (slider.offsetWidth / 2) + "px";
-   /* }
+      slider.style.left = img.offsetWidth - (slider.offsetWidth / 2) + "px";
+    }
   }
 } 
