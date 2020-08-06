@@ -6,10 +6,10 @@
 
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="{{ site.github.url }}/img/baseline2.png" width="700" height=auto>
+    <img src="img/baseline2.png" width="700" height=auto>
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="{{ site.github.url }}/img/intervention2_annot.png" width="700" height=auto>
+    <img src="img/intervention2_annot.png" width="700" height=auto>
   </div>
 </div>
 
