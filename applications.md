@@ -12,7 +12,7 @@ Here are some of our ongoing projects that use EcoservR.
 </div>
 
 <div style="float:left; left:10vw;">
-<a class="linkbutton" id="boldbutton" href="{{ site.github.url }}/interventions"> EcoservR demonstration </a>
+<a class="linkbutton" style="float:left; left:10vw;" id="boldbutton" href="{{ site.github.url }}/interventions"> EcoservR demonstration </a>
    
 </div>
 
