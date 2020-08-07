@@ -5,7 +5,7 @@
 ## Baseline vs interventions
 
 <div class="juxtapose-container">
- <div class="juxtapose">
+ <div class="juxtapose" width = "500">
     <img src="img/baseline2.png"/>
     <img src="img/intervention2_annot.png"/>
  </div>
