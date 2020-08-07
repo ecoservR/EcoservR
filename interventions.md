@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Baseline vs interventions
 
-<div class="juxtapose-container">
+<div class="juxtapose-container" style="max-width:40vw;">
  <div class="juxtapose">
     <img src="img/baseline2.png" data-label="Baseline"/>
     <img src="img/intervention2_annot.png" data-label="Interventions"/>
