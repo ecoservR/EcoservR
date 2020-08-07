@@ -10,8 +10,8 @@ Here are some of our ongoing projects that use EcoservR.
 + [Cheshire and Warrington](#cheshire-and-warrington)
 
 </div>
-<div>
-<a class="linkbutton" id="boldbutton" align="right" href="{{ site.github.url }}/interventions"> EcoservR demonstration </a>
+<div style="float:left; left:10vw;>
+<a class="linkbutton" id="boldbutton" href="{{ site.github.url }}/interventions"> EcoservR demonstration </a>
    
 </div>
 
