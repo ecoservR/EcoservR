@@ -632,32 +632,22 @@ padding-left: 5vw;
 
 
 // For image comparison with slider
-* {box-sizing: border-box;}
-.img-comp-container {
-  position: relative;
-  height: 495px; /*should be the same height as the images*/
-}
+.juxtapose-container{
+margin:auto;
+ 
+  @include large {
+    max-width: 85rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
 
-.img-comp-img {
-  position: absolute;
-  width: auto;
-  height: auto;
-  overflow: hidden;
-}
+  @include medium {
+    max-width: 45rem;
+    font-size: 1.1rem;
+  }
 
-.img-comp-img img {
-  display: block;
-  vertical-align: middle;
-}
-
-.img-comp-slider {
-  position: absolute;
-  z-index: 9;
-  cursor: ew-resize;
-  /*set the appearance of the slider:*/
-  width: 40px;
-  height: 40px;
-  background-color: #2196F3;
-  opacity: 0.7;
-  border-radius: 50%;
+  @include small {
+    max-width: 25rem;
+    font-size: 1rem;
+  }
 }
