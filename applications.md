@@ -10,7 +10,7 @@ Here are some of our ongoing projects that use EcoservR.
 
 <br>
 
-<a class="linkbutton" id="boldbutton" style="text-align:center;" href="{{ site.github.url }}/interventions"> Measuring change with EcoservR: a demonstration </a>
+<a class="linkbutton" id="boldbutton" style="margin:auto;" href="{{ site.github.url }}/interventions"> Measuring change with EcoservR: a demonstration </a>
 
 <br>
 
