@@ -634,20 +634,5 @@ padding-left: 5vw;
 // For image comparison with slider
 .juxtapose-container{
 margin:auto;
- 
-  @include large {
-    max-width: 65rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-  }
-
-  @include medium {
-    max-width: 35rem;
-    font-size: 1.1rem;
-  }
-
-  @include small {
-    max-width: 25rem;
-    font-size: 1rem;
-  }
+ width: 50vw;
 }
