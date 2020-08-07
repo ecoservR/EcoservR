@@ -1,9 +1,17 @@
 # Measuring change
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A powerful application of EcoservR is quantifying environmental gains and losses arising from interventions. By running ecosystem service models on the environmental baseline and on a modified masterplan for a site, you can:
++ identify which interventions result in trade-offs (reduction in a service possibly mitigated by gain in another)
++ identify which interventions provide multiple benefits (increase in multiple services)
++ measure these impacts at site- to regional scale, supporting strategic planning aligned with local priorities
 
+Here we demonstrate a simple workflow for measuring projected change, as could be applied in an environmental net gain context. We take a (fictional) example of agri-environmental interventions carried out on a farm - the same could be done with a new build in an urban area. 
 
-## Baseline vs interventions
+## Designing interventions
+
+Deciding where to build, or where to carry out interventions is dictated by availability and suitability. The <a href="{{ site.github.url }}/basemap">environmental baseline</a> and an initial <a href="{{ site.github.url }}/ecoservices">ecosystem service</a> assessment may help identify opportunities. Once you have mapped out the projected intervention (or a set of competing interventions), this can be merged into the existing baseline to create a "masterplan" map reflecting the land use change.
+
+You can drag the slider to explore the simulated changes in our farm example. Areas of arable land and improved grassland have been converted to a higher quality grassland, and trees were planted to create a native woodland. Additionally, public access was granted for this woodland. In this simple scenario, creating the masterplan is as simple as editing the habitat code for the respective polygons, but more complex interventions can be mapped by using GIS editing tools.  
 
 <div class="juxtapose-container" style="max-width:40vw;">
  <div class="juxtapose">
