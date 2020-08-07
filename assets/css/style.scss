@@ -640,8 +640,9 @@ margin:auto;
 // fixing wonky handle
 .jx-arrow.jx-left {
 	left: 0px;
-	top: auto;
-  bottom:2px;
+	top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);	
 	border-style: solid;
 	border-width: 0px 8px 8px 8px;
 	border-color: transparent transparent currentColor transparent;
@@ -649,8 +650,9 @@ margin:auto;
 
 .jx-arrow.jx-right {
 	right: 0px;
-	top: auto;
-	bottom: 2px;
+	top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 	border-style: solid;
 	border-width: 8px 8px 0 8px;
 	border-color: currentColor transparent transparent transparent;
