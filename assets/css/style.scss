@@ -636,3 +636,22 @@ padding-left: 5vw;
 margin:auto;
  width: 50vw;
 }
+
+// fixing wonky handle
+.vertical div.jx-arrow.jx-left {
+	left: 0px;
+	top: auto;
+  bottom:2px;
+	border-style: solid;
+	border-width: 0px 8px 8px 8px;
+	border-color: transparent transparent currentColor transparent;
+}
+
+.vertical div.jx-arrow.jx-right {
+	right: 0px;
+	top: auto;
+	bottom: 2px;
+	border-style: solid;
+	border-width: 8px 8px 0 8px;
+	border-color: currentColor transparent transparent transparent;
+}
