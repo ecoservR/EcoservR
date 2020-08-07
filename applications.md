@@ -3,18 +3,20 @@
 By providing a detailed environmental baseline and evidence-based, nationally consistent measures of ecosystem services, EcoservR can inform and support initiatives underpinned by natural capital principles, such as net-gain development, green infrastructure strategies, zero carbon targets, etc.
 
 <div markdown="1">
-   <div style="float:left; max-width=20vw;" markdown="1">
+ <div style="float:left; max-width=20vw;" markdown="1">
 Here are some of our ongoing projects that use EcoservR.
 + [ELMS Test and Trial](#upper-dane-catchment-elms-test-and-trial)
 + [Liverpool City Region](#liverpool-city-region)
 + [Cheshire and Warrington](#cheshire-and-warrington)
 
- </div>
-
- <div>
-<a class="linkbutton" id="boldbutton" align="right" href="{{ site.github.url }}/interventions"> EcoservR demonstration </a>
- </div>
 </div>
+<div>
+<a class="linkbutton" id="boldbutton" align="right" href="{{ site.github.url }}/interventions"> EcoservR demonstration </a>
+   
+</div>
+
+</div>
+
 <br style="clear:both" />
 
 <div display="block" class="row-full-img-right" id="elms" markdown="1">
