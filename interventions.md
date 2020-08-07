@@ -23,7 +23,7 @@ You can drag the slider to explore the simulated changes in our farm example. Ar
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 
 
-<p class = "disclaimer">Habitat map of a fictional farm (white outline) before and after proposed agri-environmental interventions. <br> Maps contain Ordnance Survey data © Crown copyright and database rights 2020 Ordnance Survey (100025252)</p>
+<p class = "disclaimer" style="padding-left:0; text-align:center;">Habitat map of a fictional farm (white outline) before and after proposed agri-environmental interventions. <br> Maps contain Ordnance Survey data © Crown copyright and database rights 2020 Ordnance Survey (100025252)</p>
 
 
 ## Comparing scores
