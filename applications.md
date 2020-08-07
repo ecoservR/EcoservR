@@ -8,11 +8,12 @@ Here are some of our ongoing projects that use EcoservR.
 + [ELMS Test and Trial](#upper-dane-catchment-elms-test-and-trial)
 + [Liverpool City Region](#liverpool-city-region)
 + [Cheshire and Warrington](#cheshire-and-warrington)
-   </div>
 
-   <div>
+ </div>
+
+ <div>
 <a class="linkbutton" id="boldbutton" href="{{ site.github.url }}/interventions"> Measuring change with EcoservR: a demonstration </a>
-   </div>
+ </div>
 </div>
 <br style="clear:both" />
 
