@@ -9,7 +9,7 @@ Here we demonstrate a simple workflow for measuring projected change, as could b
 
 ## Designing interventions
 
-Deciding where to build, or where to carry out interventions is dictated by availability and suitability. The <a href="{{ site.github.url }}/basemap">environmental baseline</a> and an initial <a href="{{ site.github.url }}/ecoservices">ecosystem service</a> assessment may help identify opportunities. Once you have mapped out the projected intervention (or a set of competing interventions), this can be merged into the existing baseline to create a "masterplan" map reflecting the land use change.
+Deciding where to build, or where to carry out interventions is dictated by availability and suitability. The [environmental baseline](/basemap) and an initial <a href="{{ site.github.url }}/ecoservices">ecosystem service</a> assessment may help identify opportunities. Once you have mapped out the projected intervention (or a set of competing interventions), this can be merged into the existing baseline to create a "masterplan" map reflecting the land use change.
 
 You can drag the slider to explore the simulated changes in our farm example. Areas of arable land and improved grassland have been converted to a higher quality grassland, and trees were planted to create a native woodland. Additionally, public access was granted for this woodland. In this simple scenario, creating the masterplan is as simple as editing the habitat code for the respective polygons, but more complex interventions can be mapped by using GIS editing tools.  
 
@@ -22,15 +22,29 @@ You can drag the slider to explore the simulated changes in our farm example. Ar
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 
+*A caption for the map*
 
-## Results
+## Comparing scores
+
+Once your baseline and intervention maps are ready, you can run all the relevant <a href="{{ site.github.url }}/ecoservices">service models</a> for your study area. You can compare the results visually and quantitatively, and assess whether your environmental targets are met or need another round of modification.
+
+You can pan and zoom on the maps below to see how the farm (and the wider landscape around it) has benefited from the planned agri-environmental interventions. 
 
 <div>
 {% include mmap_edit.html %}
 </div>
 <br style="clear:both" />
 
-*Here is a legend for the maps*
+*A caption for the maps*
+
+
+A table for the results at multiple scales 
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 ## And another section here
 with some text again
