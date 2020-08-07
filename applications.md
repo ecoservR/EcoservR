@@ -11,7 +11,7 @@ Here are some of our ongoing projects that use EcoservR.
 
  </div>
 
- <div>
+ <div style="float:right;">
 <a class="linkbutton" id="boldbutton" href="{{ site.github.url }}/interventions"> Measuring change with EcoservR: a demonstration </a>
  </div>
 </div>
