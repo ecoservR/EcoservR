@@ -638,7 +638,7 @@ margin:auto;
 }
 
 // fixing wonky handle
-.div.jx-arrow.jx-left {
+.jx-arrow.jx-left {
 	left: 0px;
 	top: auto;
   bottom:2px;
@@ -647,7 +647,7 @@ margin:auto;
 	border-color: transparent transparent currentColor transparent;
 }
 
-.div.jx-arrow.jx-right {
+.jx-arrow.jx-right {
 	right: 0px;
 	top: auto;
 	bottom: 2px;
