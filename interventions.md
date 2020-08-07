@@ -9,7 +9,7 @@ Here we demonstrate a simple workflow for measuring projected change, as could b
 
 ## Designing interventions
 
-Deciding where to build, or where to carry out interventions is dictated by availability and suitability. The [environmental baseline](/basemap) and an initial <a href="{{ site.github.url }}/ecoservices">ecosystem service</a> assessment may help identify opportunities. Once you have mapped out the projected intervention (or a set of competing interventions), this can be merged into the existing baseline to create a "masterplan" map reflecting the land use change.
+Deciding where to build, or where to carry out interventions is dictated by availability and suitability. The <a href="{{ site.github.url }}/basemap">environmental baseline</a> and an initial <a href="{{ site.github.url }}/ecoservices">ecosystem service</a> assessment may help identify opportunities. Once you have mapped out the projected intervention (or a set of competing interventions), this can be merged into the existing baseline to create a "masterplan" map reflecting the land use change.
 
 You can drag the slider to explore the simulated changes in our farm example. Areas of arable land and improved grassland have been converted to a higher quality grassland, and trees were planted to create a native woodland. Additionally, public access was granted for this woodland. In this simple scenario, creating the masterplan is as simple as editing the habitat code for the respective polygons, but more complex interventions can be mapped by using GIS editing tools.  
 
