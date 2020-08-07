@@ -26,3 +26,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## And another section here
 with some text again
+
+
+
+
+<script>
+var $juxtapose = $('.juxtapose'),
+    $juxtapose_container = $('.juxtapose-container'),
+    juxtapose_ratio;
+
+$(window).load(function(){
+  juxtapose_ratio = $juxtapose.outerHeight() / $juxtapose.outerWidth();
+});
+
+$(window).resize(function() {
+  var new_width = $juxtapose_container.outerWidth(),
+      new_height = new_width*juxtapose_ratio;
+
+  $juxtapose.css({
+    width: new_width,
+    height: new_height
+  })
+});
+</script>
