@@ -652,7 +652,7 @@ margin:auto;
 	border-style: solid;
 	border-width: 8px 8px 8px 0;
 	border-color: transparent currentColor transparent transparent;
-  top: 50%;
+  top: calc(50% - 8px);
 }
 
 .jx-arrow.jx-right {
@@ -661,7 +661,7 @@ margin:auto;
 	border-style: solid;
 	border-width: 8px 0 8px 8px;
 	border-color: transparent transparent transparent currentColor;
-  top: 50%;
+  top: calc(50% - 8px);
 }
 
 .jx-controller {
