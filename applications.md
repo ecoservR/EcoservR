@@ -8,7 +8,7 @@ Here are some of our ongoing projects that use EcoservR.
 + [Liverpool City Region](#liverpool-city-region)
 + [Cheshire and Warrington](#cheshire-and-warrington)
 
-<div style="margin:auto; padding-top:20px;">
+<div style="margin:auto; padding-top:20px; max-width:25vw;">
 <a class="linkbutton" id="boldbutton" href="{{ site.github.url }}/interventions"> Measuring change with EcoservR: a demonstration </a>
 </div>
 <br>
