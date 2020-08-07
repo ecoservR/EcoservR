@@ -636,13 +636,13 @@ padding-left: 5vw;
 margin:auto;
  
   @include large {
-    max-width: 85rem;
+    max-width: 65rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
 
   @include medium {
-    max-width: 45rem;
+    max-width: 35rem;
     font-size: 1.1rem;
   }
 
