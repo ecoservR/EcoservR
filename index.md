@@ -59,11 +59,11 @@ EcoservR measures and maps a range of ecosystem services. Capacity and demand ma
 
 <div display="block" class="row-full-img-right" id="netgain" markdown="1">
   <div class="main-content-right" markdown="1">
-# Assessing environmental net gain
+# Measuring change
 
-A powerful feature of EcoservR is the ability to calculate projected change - gains and losses - in the delivery of ecosystem services arising from a given intervention. Our spatial models are very sensitive, meaning that effects can be detected beyond site level to local and landscape scales. So whether you are trying to mitigate environmental impacts of a new build or want to measure the impact of planting a new woodland at the neighbourhood and city scale, EcoservR will provide robust, evidence-based figures to support your assessment.
+A powerful feature of EcoservR is the ability to calculate projected change - gains and losses - in the delivery of ecosystem services arising from a given intervention. Our spatial models are very sensitive, meaning that effects can be detected beyond site level to local and landscape scales. So whether you are trying to meet environmental net gain targets for a new build or want to measure the impact of planting a new woodland at the neighbourhood and city scale, EcoservR will provide robust, evidence-based figures to support your assessment.
 
-<a class="linkbutton" href="{{ site.github.url }}/interventions"> Learn more </a>
+<a class="linkbutton" href="{{ site.github.url }}/letstryagain"> Learn more </a>
   
   </div> 
 </div>
