@@ -30,14 +30,14 @@ You can drag the slider to explore the simulated changes in our farm example. Ar
 
 Once your baseline and intervention maps are ready, you can run all the relevant <a href="{{ site.github.url }}/ecoservices">service models</a> for your study area. You can compare the results visually and quantitatively, and assess whether your environmental targets are met or need another round of modification.
 
-You can pan and zoom on the maps below to see how the farm (and the wider landscape around it) has benefited from the planned agri-environmental interventions. 
+You can toggle the layers on the maps below to see how the farm (and the wider landscape around it) has benefited from the planned agri-environmental interventions. 
 
 <div>
 {% include mmap_edit.html %}
 </div>
 <br style="clear:both" />
 
-*A caption for the maps*
+<p class = "disclaimer" style="padding-left:0; text-align:center;">Gains in air purification (left) and carbon storage (right) capacity on a fictional farm (white outline) before and after proposed agri-environmental interventions, as modelled by EcoservR. Scores have been rescaled to 0-100 to simplify visualisation.</p>
 
 
 A table for the results at multiple scales 
