@@ -600,6 +600,7 @@ transition: all 0.4s ease 0s;
   text-align: center;
 }
 
+
 .linkbutton:hover {
   background-color: #aec5a5;
   text-decoration: none;
@@ -608,6 +609,18 @@ transition: all 0.4s ease 0s;
 -moz-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
 box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
 transition: all 0.4s ease 0s;
+}
+
+#boldbutton {
+// a hot pink attention-grabbing button
+  background-color: #ab1a63;
+  color: #fff;
+  padding: 20px 35px;
+}
+
+#boldbutton:hover {
+  background-color: #b29ea9;
+  color: #7c536a;
 }
 
 // Responsive image full width
