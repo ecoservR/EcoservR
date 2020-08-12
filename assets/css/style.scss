@@ -36,7 +36,6 @@
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  text-align: right;
   
  // @include small {
  // ul.topnav li {float: none;}
@@ -57,14 +56,14 @@
 
 .topnav li a.active {background-color: #acdfdb;}
 
-/* Hide the link that should open and close the topnav on small screens */
+/* Hide the menu icon when the navbar display */
 .topnav .icon {
   display: none;
 }
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
-@media screen and (max-width: 600px) {
-  .topnav ul li a:not(:first-child) {display: none;}
+@ include small {
+  .topnav ul li {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
