@@ -38,9 +38,9 @@
   background-color: #333;
   text-align: right;
   
-  @include small {
-  ul.topnav li {float: none;}
-}
+ // @include small {
+ // ul.topnav li {float: none;}
+//}
 }
 
 .topnav li {float: right;}
