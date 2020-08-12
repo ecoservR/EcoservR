@@ -36,13 +36,14 @@
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  text-align: right;
   
   @include small {
   ul.topnav li {float: none;}
 }
 }
 
-.topnav li {float: right;}
+//.topnav li {float: right;}
 
 .topnav li a {
   display: block;
@@ -63,7 +64,7 @@
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none;}
+  .topnav li:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
