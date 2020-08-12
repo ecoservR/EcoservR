@@ -37,9 +37,9 @@
   overflow: hidden;
   background-color: #333;
   
-  //@include small {
-  //ul.topnav li {float: none;}
-//}
+  @include small {
+  ul.topnav li {float: none;}
+}
 }
 
 .topnav li {float: right;}
