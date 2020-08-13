@@ -36,9 +36,9 @@ You can toggle the layers on the maps below to see how the farm (and the wider l
  <style type="text/css">
 .info {
 padding: 6px 8px;
-font: 10px/12px Arial, Helvetica, sans-serif;
+font: 10px/12px Arial, Helvetica, sans-serif !important;
 background: white;
-background: rgba(255,255,255,0.7);
+background: rgba(255,255,255,0.7); !important;
 box-shadow: 0 0 15px rgba(0,0,0,0.2);
 border-radius: 5px;
 }
