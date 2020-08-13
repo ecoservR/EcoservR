@@ -2,7 +2,7 @@
 
 ## Co-developers
 
-<table style="display: block; margin-left:auto; margin-right:auto;">
+<table style="display: block; left: 50%; margin-right: -50%;transform: translate(-50%, 0)">
   <tr>
     <td> <a href="https://www.ljmu.ac.uk/">
          <img alt="LJMU logo" src="img/logos/LJMU_logo.jpg"
