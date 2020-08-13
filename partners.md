@@ -2,9 +2,7 @@
 
 ## Co-developers
 
-All partners logos
-
-<table>
+<table style="text-align:center;">
   <tr>
     <td> <a href="https://www.ljmu.ac.uk/">
          <img alt="LJMU logo" src="img/logos/LJMU_logo.jpg"
