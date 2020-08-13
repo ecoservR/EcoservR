@@ -682,15 +682,15 @@ padding-left: 5vw;
 margin:auto;
 	
   @include large {
-  max-width: 40%;
+  width: 70rem;
   }
 	
   @include medium {
-  max-width: 60%;
+  width: 50rem;
   }
 	
   @include small {
-  max-width: 80%;
+  width: 80%;
   }
 }
 
