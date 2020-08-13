@@ -2,7 +2,7 @@
 
 ## Co-developers
 
-<table style="text-align:center;">
+<table style="text-align:center; margin-left:auto; margin-right:auto; ">
   <tr>
     <td> <a href="https://www.ljmu.ac.uk/">
          <img alt="LJMU logo" src="img/logos/LJMU_logo.jpg"
