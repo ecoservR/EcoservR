@@ -680,7 +680,17 @@ padding-left: 5vw;
 // For image comparison with slider
 .juxtapose-container{
 margin:auto;
- width: 50vw;
+  @ include large {
+  max-width: 40 vw;
+  }
+	
+  @ include medium {
+  max-width: 60 vw;
+  }
+	
+  @ include small {
+  max-width: 80 vw;
+  }
 }
 
 // fixing wonky handle
