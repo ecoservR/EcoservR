@@ -34,11 +34,5 @@ The new Environmental Land Management System (ELMS), set to replace the Common A
 </div>
 </div>
 
-## Liverpool City Region
-
-description
 
 
-## Cheshire and Warrington
-
-description
