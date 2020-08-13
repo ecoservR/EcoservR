@@ -33,23 +33,21 @@ Once your baseline and intervention maps are ready, you can run all the relevant
 You can toggle the layers on the maps below to see how the farm (and the wider landscape around it) has benefited from the planned agri-environmental interventions. 
 
 <div>
-{% include mmap_edit.html %}
+ <style type="text/css">
+.info {
+padding: 6px 8px;
+font: 10px/12px Arial, Helvetica, sans-serif;
+background: white;
+background: rgba(255,255,255,0.7);
+box-shadow: 0 0 15px rgba(0,0,0,0.2);
+border-radius: 5px;
+}
+ </style>
+ {% include mmap_edit.html %}
 </div>
 <br style="clear:both" />
 
 <p class = "disclaimer" style="padding-left:0; text-align:center;">Gains in air purification (left) and carbon storage (right) capacity on a fictional farm (white outline) before and after proposed agri-environmental interventions, as modelled by EcoservR. Scores have been rescaled to 0-100 to simplify visualisation.</p>
-
-
-A table for the results at multiple scales 
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-## And another section here
-with some text again
 
 
 
