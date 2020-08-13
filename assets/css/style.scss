@@ -667,6 +667,15 @@ transition: all 0.4s ease 0s;
 .logos {
   max-width: 400px;
   height: auto;
+@include large {
+  width: 10vw;	
+	}
+@include medium {
+  width: 30vw;	
+	}
+@include small {
+  width: 50vw;	
+	}	
 }
 
 // Small font for disclaimer
