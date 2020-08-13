@@ -31,3 +31,15 @@
 
 
 ## Supporting partners
+
+<table style="display: block; margin-left:auto, margin-right:auto;">
+  <tr>
+    <td> <a href="https://peellandp.co.uk/responsibility">
+         <img alt="Peel L&P logo" src="img/logos/Peel.jpg"
+         class = "logos">
+      </a> </td>
+
+    <td></td>
+   </tr>
+   
+</table>
