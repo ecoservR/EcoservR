@@ -396,7 +396,8 @@ img[src*='#center'] {
   table {
     display: block;
     width: 100%;
-    overflow: auto;
+    overflow: auto; 
+    overflow-y: hidden;
     word-break: normal;
     word-break: keep-all; // For Firefox to horizontally scroll wider tables.
     -webkit-overflow-scrolling: touch;
