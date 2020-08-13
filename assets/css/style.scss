@@ -671,13 +671,16 @@ transition: all 0.4s ease 0s;
   overflow: hidden;
 	
 @include large {
-  width: 20vw;	
+  width: 25vw;
+  padding: 20px 40px;
 	}
 @include medium {
   width: 30vw;	
+  padding: 15px 20px;
 	}
 @include small {
   width: 50vw;	
+  padding: 8px 10px;
 	}	
 }
 
