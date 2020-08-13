@@ -13,7 +13,7 @@ Deciding where to build, or where to carry out interventions is dictated by avai
 
 You can drag the slider to explore the simulated changes in our farm example. Areas of arable land and improved grassland have been converted to a higher quality grassland, and trees were planted to create a native woodland. Additionally, public access was granted for this woodland. In this simple scenario, creating the masterplan is as simple as editing the habitat code for the respective polygons, but more complex interventions can be mapped by using GIS editing tools.  
 
-<div class="juxtapose-container" style="max-width:40vw; padding-top:30px;">
+<div class="juxtapose-container">
  <div class="juxtapose">
     <img src="img/baseline2.png" data-label="Baseline"/>
     <img src="img/intervention2_annot.png" data-label="Interventions"/>
