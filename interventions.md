@@ -35,7 +35,7 @@ You can toggle the layers on the maps below to see how the farm (and the wider l
 <div>
  <style type="text/css">
 .info {
-font: 0.7rem !important;
+font: 11px/10px Arial, Helvetica, sans-serif !important;
 }
  </style>
  {% include mmap_edit.html %}
