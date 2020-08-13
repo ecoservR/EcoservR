@@ -681,15 +681,15 @@ padding-left: 5vw;
 .juxtapose-container {
 margin:auto;
 	
-  @ include large {
+  @include large {
   max-width: 40 vw;
   }
 	
-  @ include medium {
+  @include medium {
   max-width: 60 vw;
   }
 	
-  @ include small {
+  @include small {
   max-width: 80 vw;
   }
 }
