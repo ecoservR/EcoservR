@@ -70,7 +70,7 @@ A powerful feature of EcoservR is the ability to calculate projected change - ga
 
 # EcoservR release
 
-We are working towards a beta-release of the toolkit as a series of R scripts in late August 2020, and with a user interface later in the year. EcoservR will be free to use.
+We are working towards a beta-release of the toolkit as a series of R scripts in September 2020, and with a user interface later in the year. EcoservR will be free to use.
 
 Watch this space!
 
