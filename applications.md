@@ -7,7 +7,7 @@ By providing a detailed environmental baseline and evidence-based, nationally co
 Here are some of our ongoing projects that use EcoservR.
 + [ELMS Test and Trial](#upper-dane-catchment-elms-test-and-trial)
 + [Liverpool City Region](#liverpool-city-region)
-+ [Cheshire and Warrington](#cheshire-and-warrington)
+
 
 </div>
 
@@ -34,5 +34,9 @@ The new Environmental Land Management System (ELMS), set to replace the Common A
 </div>
 </div>
 
+## Liverpool City Region
 
+Environmental Net Gain is supported in the Governments 25-Year Environment Plan and the 2020 White paper Planning for the Future. We are using EcoservR to assess change in natural capital and ecosystem services flow and demand due to “real life” planned developments in the Liverpool City Region. These changes have been measured at different geographical extents, from site scale to the whole of the Liverpool City Region. This analysis can be used to inform decision making and policy at a number of levels - for example, at site scale this can inform developers design processes, at the ward, local authority or city region extent, this can inform strategic planning.
+
+<a class = "downloadbutton" href="{{ site.github.url }}/files/Liverpool_EcoservR_Report_FINAL.pdf" download = "download" align="center">Download the report</a>
 
