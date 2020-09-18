@@ -50,7 +50,7 @@ Scores can be averaged over multiple areas, to measure impacts from site-scale t
 
 <br>
 
-<img src="img/farm_netgain.jpg" alt="Scores table" class="responsive" id = netgaintable>
+<img src="img/farm_netgain.JPG" alt="Scores table" class="responsive" id = netgaintable>
 *Gains in ecosystem service delivery after simulated interventions on a farm, presented as relative increase from baseline capacity.*
 
 <br>
