@@ -491,7 +491,7 @@ background-position: center center;
 background-size: cover;
 	
 @include small {
-  background-attachment: scroll;
+  background-attachment: scroll; // removes parallax effect on small screens (otherwise picture gets blurry)
   }
 
 }
@@ -507,6 +507,10 @@ background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
+
+@include small {
+  background-attachment: scroll; // removes parallax effect on small screens (otherwise picture gets blurry)
+  }
 }
 
 // these are the inner div classes to go with full-width bg image
