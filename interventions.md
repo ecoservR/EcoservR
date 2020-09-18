@@ -44,7 +44,16 @@ font: 11px/10px Arial, Helvetica, sans-serif !important;
 
 <p class = "disclaimer" style="padding-left:0; text-align:center;">Gains in air purification (left) and carbon storage (right) capacity on a fictional farm (white outline) before and after proposed agri-environmental interventions, as modelled by EcoservR. Scores have been rescaled to 0-100 to simplify visualisation.</p>
 
+## Multi-scale analysis
 
+Scores can be averaged over multiple areas, to measure impacts from site-scale to landscape, city region, or even county scale. Here, our simulated interventions resulted in net gain in each of the seven services compared to the baseline. 
+
+<br>
+
+<img src="img/farm_netgain.png" alt="Scores table" class="responsive">
+*Gains in ecosystem service delivery after simulated interventions on a farm, presented as relative increase from baseline capacity.*
+
+<br>
 
 
 <script>
