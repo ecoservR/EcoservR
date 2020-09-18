@@ -489,10 +489,7 @@ background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
-	
-@include small {
-background-size:contain;
-  }
+
 }
 
 .row-full-img-left{
