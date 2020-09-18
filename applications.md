@@ -35,7 +35,7 @@ The new Environmental Land Management System (ELMS), set to replace the Common A
 </div>
 
 <div display="block" class="row-full-img-left" id="lcr" markdown="1">
-   <div class="main-content-right" markdown="1">
+   <div class="main-content-left" markdown="1">
 
 ## Liverpool City Region
 
