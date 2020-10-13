@@ -33,18 +33,7 @@
 ## Supporting partners
 
 <table style="display: block; margin-left:auto, margin-right:auto;">
-  <tr>
-    <td> <a href="https://peellandp.co.uk/responsibility" target="_blank">
-         <img alt="Peel L&P logo" src="img/logos/Peel.jpg"
-         class = "logos">
-      </a> </td>
-
-    <td><a href="http://www.meas.org.uk/" target="_blank">
-         <img alt="MEAS logo" src="img/logos/MEAS_logo.JPG"
-         class = "logos">
-      </a></td>
-  </tr>
-  
+    
   <tr>
     <td> <a href="https://www.liverpoolcityregion-ca.gov.uk/" target="_blank">
          <img alt="LCR logo" src="img/logos/LCR_CA.jpg"
@@ -69,6 +58,16 @@
       </a></td>
   </tr>
    
-   
+  <tr>
+    <td> <a href="https://peellandp.co.uk/responsibility" target="_blank">
+         <img alt="Peel L&P logo" src="img/logos/Peel.jpg"
+         class = "logos">
+      </a> </td>
+
+    <td><a href="http://www.meas.org.uk/" target="_blank">
+         <img alt="MEAS logo" src="img/logos/MEAS_logo.JPG"
+         class = "logos">
+      </a></td>
+  </tr> 
    
 </table>
