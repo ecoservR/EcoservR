@@ -39,7 +39,36 @@
          class = "logos">
       </a> </td>
 
-    <td></td>
-   </tr>
+    <td><a href="http://www.meas.org.uk/" target="_blank">
+         <img alt="MEAS logo" src="img/logos/MEAS_logo.JPG"
+         class = "logos">
+      </a></td>
+  </tr>
+  
+  <tr>
+    <td> <a href="https://www.liverpoolcityregion-ca.gov.uk/" target="_blank">
+         <img alt="LCR logo" src="img/logos/LCR_CA.jpg"
+         class = "logos">
+      </a> </td>
+
+    <td><a href="https://www.gov.uk/government/organisations/natural-england" target="_blank">
+         <img alt="EA logo" src="img/logos/NaturalEngland.png"
+         class = "logos">
+      </a></td>
+  </tr>
+  
+   <tr>
+    <td> <a href="https://www.merseyforest.org.uk/" target="_blank">
+         <img alt="Mersey Forest logo" src="img/logos/MerseyForest.gif"
+         class = "logos">
+      </a> </td>
+
+    <td><a href="https://www.liverpool.ac.uk/" target="_blank">
+         <img alt="University of Liverpool logo" src="img/logos/ULiverpool.png"
+         class = "logos">
+      </a></td>
+  </tr>
+   
+   
    
 </table>
