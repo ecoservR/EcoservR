@@ -69,5 +69,52 @@
          class = "logos">
       </a></td>
   </tr> 
+  
+    <tr>
+    <td> <a href="https://www.merseyrivers.org/" target="_blank">
+         <img alt="Mersey Rivers Trust logo" src="img/logos/MerseyRiversTrust.png"
+         class = "logos">
+      </a> </td>
+
+    <td><a href="https://www.natureconnected.org/" target="_blank">
+         <img alt="Nature Connected logo" src="img/logos/NatureConnected.JPG"
+         class = "logos">
+      </a></td>
+  </tr> 
+  
+  <tr>
+    <td> <a href="https://www.lancswt.org.uk/nature-reserves" target="_blank">
+         <img alt="Wildlife Trusts logo" src="img/logos/WildlifeTrusts.jpg"
+         class = "logos">
+      </a> </td>
+
+    <td><a href="https://thelandtrust.org.uk/" target="_blank">
+         <img alt="Land Trust logo" src="img/logos/TheLandTrust.jpg"
+         class = "logos">
+      </a></td>
+  </tr> 
+  
+  <tr>
+    <td> <a href="https://thefloodhub.co.uk/your-local-area/merseyside/" target="_blank">
+         <img alt="Flood Hub logo" src="img/logos/FloodHub.png"
+         class = "logos">
+      </a> </td>
+
+    <td><a href="https://www.groundwork.org.uk/" target="_blank">
+         <img alt="Groundwork logo" src="img/logos/groundwork.jpg"
+         class = "logos">
+      </a></td>
+  </tr> 
+  
+  <tr>
+    <td> <a href="https://www.unitedutilities.com/" target="_blank">
+         <img alt="United Utilies logo" src="img/logos/UnitedUtilities.jpeg"
+         class = "logos">
+      </a> </td>
+
+    <td></td>
+  </tr>
    
 </table>
+
+
