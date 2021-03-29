@@ -25,11 +25,21 @@ Here are some of our ongoing projects that use EcoservR.
 
 ## Upper Dane catchment ELMS Test and Trial
 
-The new Environmental Land Management System (ELMS), set to replace the Common Agricultural Policy in the UK, will revolve around using "public money for public goods" to support agri-environmental schemes. We are using EcoservR to develop an environmental baseline of the Dane river catchment area (Cheshire) and quantify ecosystem services at farm- to landscape- scale to help inform land management plans. This test and trial is funded by Defra from January to August 2020. 
+Environmental Land Management is the cornerstone of our new agricultural policy. Founded on the principle of “public money for public goods”, it is intended to provide a powerful vehicle for achieving the goals of the 25 Year Environment Plan and commitment to net zero emissions by 2050, while supporting our rural economy’.  
+
+Farmers and other land managers may enter into agreements to be paid for delivering the following public goods:  
++ Clean and plentiful water                                              
++ Thriving plants and wildlife 
++ Reduction in and protection from environmental hazards 
++ Adaptation to and mitigation of climate change 
++ Beauty, heritage and engagement with the environment  
+
+In this report we demonstrate the use of EcoservR to develop a natural capital baseline of the Dane river catchment area (Cheshire). We also quantify changes in the delivery of ecosystem services at farm- to landscape- scale arising from agri-environmental interventions. This modelling approach could help inform land management plans. This test and trial was funded by Defra from December 2019 to August 2020.
+
 
 <br>
 
-<a class = "downloadbutton" href="{{ site.github.url }}/files/Angers-Blondin_and_Bowe_LJMU_spatial_prio_working_group.pdf" download = "download" align="center">Download our Spatial Prioritisation working group presentation</a>
+<a class = "downloadbutton" href="{{ site.github.url }}/files/LJMU_TT_ELMS_Jan2021.pdf" download = "download" align="center">Download our ELM Test and Trial report </a>
 
 </div>
 </div>
